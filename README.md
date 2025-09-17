@@ -1,2 +1,25 @@
 # spark
-spark gui for blooket domination
+join the server for updates on new things:
+https://discord.gg/m7QAZgCJKp
+
+# How to use:
+1 - Copy the script by either:
+ - click the copy button
+   OR
+- click the raw button, CMD+A, CMD+C to copy
+2 - Go to the app you want to use it on ex. blooket page
+- Right Click (two fingers on trackpad and press or right button on mouse)
+- Inspect Element
+- Console
+  **NOW READ CAREFULLY**
+Make sure you have copied the script.
+CMD+V to paste into console.
+**IF** it says something in yellow/warning
+type "allow pasting" with no "
+If not, then paste it as normal.
+Press Enter
+**You are running the panel!**
+
+**Update V1**
+- Added Spark Blooket Panel
+- Working on Wayground/Quizzez Panel
