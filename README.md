@@ -18,8 +18,9 @@ CMD+V to paste into console.
 type "allow pasting" with no "
 If not, then paste it as normal.
 Press Enter
+Now, you need the token, open the **prev** file and copy exactly that token, and paste that in.
 **You are running the panel!**
 
-**Update V1**
-- Added Spark Blooket Panel
+**Update V2**
+- Reworked on abillties, fixed send text, added crash host for cryptohack and added text bomb.
 - Working on Wayground/Quizzez Panel
