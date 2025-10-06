@@ -18,7 +18,7 @@ CMD+V to paste into console.
 type "allow pasting" with no "
 If not, then paste it as normal.
 Press Enter
-Now, you need the token, open the **prev** file and copy exactly that token, and paste that in.
+Now, you need the token, open the **token** file and copy exactly that token, and paste that in.
 **You are running the panel!**
 
 **Update V2**
